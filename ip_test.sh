@@ -11,4 +11,4 @@ else
   echo "IP-urile coincid, bravo!"
 fi
 
-echo "Buse Valentin Crisitan"
+echo "Buse Valentin Crisitan "
