@@ -10,3 +10,5 @@ if [ "$ip" != "$nslookup_ip" ];then
 else
   echo "IP-urile coincid, bravo!"
 fi
+
+echo "Buse Valentin Crisitan"
